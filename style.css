@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+img {
+    width: 60%;
+    height: 40%;
+}
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: black;
+    font-family: 'Rock 3D', cursive;
+    background-color: grey;
+    font-size: 25px;
+    font-weight: bold;
+    float: left;
+}
+.btn {
+    font-family: 'Smokum', cursive;
+    font-size: 66px;
+    margin: 0px;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px black;
+}
+.heading {
+    width: 100%;
+}
